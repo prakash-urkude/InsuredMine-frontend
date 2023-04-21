@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @media (min-width: 1800px) {
+  .App {
+    display: grid;
+    grid-template-rows: 2;
+    grid-template-columns: auto auto;
+    gap: 4px;
+  }
+} */
